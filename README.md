@@ -13,11 +13,17 @@ web3
     >npm install web3
 
 ### truffle을 실행하는법
+
     >truffle develop
+
 실행후 develop모드에서 
+
     ```>test```
+
 또는
+
     ```>truffle test```
+
 를 입력하여 실행 할 수 있다.
 
 ### ganache를 실행하는 법
