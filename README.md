@@ -18,11 +18,11 @@ web3
 
 실행후 develop모드에서 
 
-    ```>test```
+    >test
 
 또는
 
-    ```>truffle test```
+    >truffle test
 
 를 입력하여 실행 할 수 있다.
 
